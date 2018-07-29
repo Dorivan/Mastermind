@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasterMindWin.DrawingUtility" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEBAAAARAAAQAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>DrawingUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterMindWin.frmMasterMind">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ORCAYAgIgCCAEEApXFCBBABCCJAWEACBsEYBhAACMyg=</HashCode>
+      <FileName>frmMasterMind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterMindWin.Result" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MasterMindGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterMindWin.Master" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAAA=</HashCode>
+      <FileName>MasterMindGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterMindWin.Pegs" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>MasterMindGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterMindWin.Board" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAEAIQAAEAAAAAAACAACAAAAAAJAAAAgAAwAAA=</HashCode>
+      <FileName>MasterMindGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MasterMindWin.GameStatus">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>MasterMindGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="MasterMindWin.Delegat" Collapsed="true">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegat.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
