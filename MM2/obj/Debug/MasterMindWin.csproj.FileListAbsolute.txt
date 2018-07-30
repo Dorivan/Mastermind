@@ -1,0 +1,36 @@
+C:\Users\student\Desktop\jopa\MM\bin\Debug\MasterMindWin.exe
+C:\Users\student\Desktop\jopa\MM\bin\Debug\MasterMindWin.pdb
+C:\Users\student\Desktop\jopa\MM\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jopa\MM\obj\Debug\MasterMindWin.frmMasterMind.resources
+C:\Users\student\Desktop\jopa\MM\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\jopa\MM\obj\Debug\MasterMindWin.exe
+C:\Users\student\Desktop\jopa\MM\obj\Debug\MasterMindWin.pdb
+C:\Users\student\Desktop\MM\obj\Debug\MasterMindWin.exe
+C:\Users\student\Desktop\MM\obj\Debug\MasterMindWin.pdb
+C:\Users\student\Desktop\MM\bin\Debug\MasterMindWin.exe
+C:\Users\student\Desktop\MM\bin\Debug\MasterMindWin.pdb
+C:\Users\student\Desktop\MM\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MM\obj\Debug\MasterMindWin.frmMasterMind.resources
+C:\Users\student\Desktop\MM\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
+F:\MM\obj\Debug\MasterMindWin.exe
+F:\MM\obj\Debug\MasterMindWin.pdb
+F:\MM\bin\Debug\MasterMindWin.exe
+F:\MM\bin\Debug\MasterMindWin.pdb
+F:\MM\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
+F:\MM\obj\Debug\MasterMindWin.frmMasterMind.resources
+F:\MM\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
+C:\Users\Stalin\Desktop\practica\obj\Debug\MasterMindWin.exe
+C:\Users\Stalin\Desktop\practica\obj\Debug\MasterMindWin.pdb
+C:\Users\Stalin\Desktop\practica\bin\Debug\MasterMindWin.exe
+C:\Users\Stalin\Desktop\practica\bin\Debug\MasterMindWin.pdb
+C:\Users\Stalin\Desktop\practica\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
+C:\Users\Stalin\Desktop\practica\obj\Debug\MasterMindWin.frmMasterMind.resources
+C:\Users\Stalin\Desktop\practica\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.exe
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.pdb
+C:\Users\Stalin\Desktop\First try\bin\Debug\MasterMindWin.exe
+C:\Users\Stalin\Desktop\First try\bin\Debug\MasterMindWin.pdb
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.frmMasterMind.resources
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
+C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.Properties.Resources.resources
