@@ -5,8 +5,7 @@ using System.Drawing.Drawing2D;
 namespace MasterMindWin
 {
 	public class DrawingUtility
-	{
-		
+	{		
 		public static void DrawPeg(ref Graphics g,Rectangle r, Color c) //прорисовка фишки
 		{
 			GraphicsPath path = new GraphicsPath();
@@ -31,7 +30,6 @@ namespace MasterMindWin
 			g.DrawString(s,f,new SolidBrush(c2),r,sf);
 			g.DrawString(s,f,new SolidBrush(c1),new Rectangle(r.X+1,r.Y+1,r.Width,r.Height),sf);
 		}
-
 		public static void DrawInsetCircle(ref Graphics g,Rectangle r,Pen p)
 		{
 			Pen p1 = new Pen(getDarkColor(p.Color,50));
@@ -43,7 +41,6 @@ namespace MasterMindWin
 				g.DrawArc(p1,r1,135,180);
 			}
 		}
-
 		public static Color getDarkColor(Color c,byte d)
 		{
 			byte r = 0 ;
@@ -78,7 +75,6 @@ namespace MasterMindWin
 				flag = true;
 			}
 			return flag;
-
 		}
 	}
 }
