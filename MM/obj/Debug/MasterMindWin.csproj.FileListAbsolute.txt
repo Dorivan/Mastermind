@@ -34,11 +34,3 @@ C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.csprojResolveAssemblyR
 C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.frmMasterMind.resources
 C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
 C:\Users\Stalin\Desktop\First try\obj\Debug\MasterMindWin.Properties.Resources.resources
-F:\Mastermind\obj\Debug\MasterMindWin.exe
-F:\Mastermind\obj\Debug\MasterMindWin.pdb
-F:\Mastermind\bin\Debug\MasterMindWin.exe
-F:\Mastermind\bin\Debug\MasterMindWin.pdb
-F:\Mastermind\obj\Debug\MasterMindWin.csprojResolveAssemblyReference.cache
-F:\Mastermind\obj\Debug\MasterMindWin.frmMasterMind.resources
-F:\Mastermind\obj\Debug\MasterMindWin.Properties.Resources.resources
-F:\Mastermind\obj\Debug\MasterMindWin.csproj.GenerateResource.Cache
